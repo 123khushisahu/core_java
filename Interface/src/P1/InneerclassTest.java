@@ -10,6 +10,7 @@ public class InneerclassTest {
 		
 		Subclass1 s1 =new Subclass1();
 		s1.m1();
+		System.out.println("hii");
 	}
 
 }
